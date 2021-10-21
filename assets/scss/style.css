@@ -1,0 +1,220 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+@font-face {
+  font-family: "casual";
+  src: url("/assets/font/Casual-Regular") format("tff");
+}
+
+#navbar .navbar {
+  background-color: #415D6B;
+  padding: 17.5px 0;
+}
+
+#navbar .navbar .navbar-brand {
+  width: 8rem;
+}
+
+#navbar .navbar .nav-link {
+  font-size: 16px;
+  font-family: "Karla";
+  color: white;
+  margin-right: 15px;
+}
+
+#navbar .navbar .nav-link:hover {
+  color: #D9E5EB;
+}
+
+#navbar .navbar .btn-order {
+  margin-left: 20px;
+  padding: 10px 15px;
+  background-color: #F4A074;
+  color: white;
+  font-size: 18px;
+}
+
+#hero .hero {
+  min-height: 600px;
+  background: transparent;
+  background-size: cover;
+}
+
+#hero .hero .hero-text {
+  margin: 12.5rem 0;
+}
+
+#hero .hero .hero-text h3 {
+  font-size: 75px;
+  color: white;
+  font-family: "casual";
+}
+
+#hero .hero .hero-text p {
+  font-size: 24px;
+  color: white;
+  font-family: "Karla";
+}
+
+#greet {
+  padding: 50px 0;
+}
+
+#greet .greet-text {
+  margin-bottom: 50px;
+}
+
+#greet .greet-text h3 {
+  font-size: 32px;
+  font-family: "casual";
+}
+
+#greet .greet-text p {
+  font-size: 16px;
+  font-family: "Karla";
+  color: #69707B;
+}
+
+#greet .text {
+  margin-left: 20px;
+}
+
+#greet .text h3 {
+  font-size: 24px;
+  font-family: "casual";
+}
+
+#greet .text p {
+  font-size: 16px;
+  font-family: "Karla";
+  color: #69707B;
+}
+
+#menus {
+  padding: 50px 0;
+}
+
+#menus .menu-1 {
+  min-height: 400px;
+  background: transparent;
+}
+
+#menus .menu-2 {
+  min-height: 400px;
+  background: transparent;
+}
+
+#menus .menu-3 {
+  min-height: 400px;
+  background: transparent;
+}
+
+#menus .menu-text {
+  margin: 50px 0;
+}
+
+#menus .menu-text h3 {
+  font-size: 32px;
+  font-family: "casual";
+}
+
+#menus .menu-text p {
+  font-size: 16px;
+  font-family: "Karla";
+  color: #69707B;
+}
+
+#menus .text {
+  margin: 0 1rem;
+}
+
+#menus .text h5 {
+  font-size: 24px;
+  font-family: "casual";
+}
+
+#menus .text p {
+  margin-bottom: 0;
+  font-size: 16px;
+  font-family: "Karla";
+  color: #69707B;
+}
+
+#menus .price {
+  font-size: 24px;
+  font-family: "Karla";
+}
+
+#reservation {
+  margin-top: 80px;
+}
+
+#reservation .reservation {
+  min-height: 400px;
+  background: transparent;
+  background-size: cover;
+}
+
+#reservation .reservation .rsv-text {
+  margin: 12.5rem 0;
+}
+
+#reservation .reservation .rsv-text h3 {
+  font-size: 32px;
+  color: white;
+  font-family: "casual";
+}
+
+#reservation .reservation .rsv-text p {
+  font-size: 16px;
+  color: white;
+  font-family: "Karla";
+}
+
+#reservation .reservation .rsv-text .btn-custom {
+  margin-top: 15px;
+  padding: 10px 0;
+  font-size: 18px;
+  font-family: "Karla";
+  color: white;
+  background-color: #415D6B;
+}
+
+#footer {
+  background-color: #D9E5EB;
+}
+
+#footer .footer {
+  padding: 65px 0;
+}
+
+#footer .footer .logo h3 {
+  font-size: 75px;
+  font-family: "casual";
+  color: #415D6B;
+}
+
+#footer .footer .logo p {
+  font-size: 24px;
+  font-family: "Karla";
+  color: #415D6B;
+}
+
+#footer .footer .detail p {
+  font-size: 16px;
+  font-family: "Karla";
+  color: #415D6B;
+}
+
+#footer .footer .social {
+  margin-top: 20px;
+}
+
+#footer .footer .social a {
+  color: #415D6B;
+  -webkit-transition: 1s ease linear;
+  transition: 1s ease linear;
+}
+
+#footer .footer .social a i {
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */
